@@ -9,7 +9,7 @@ class PocketBaseService {
   PocketBaseService._internal();
 
   final PocketBase pb = PocketBase(
-      'https://586485bea01e-17076610223505492659.ngrok-free.app'); // URL ของ PocketBase
+      'https://complete-flame.pockethost.io'); // URL ของ PocketBase
 
   // ฟังก์ชันสำหรับล็อกอินผู้ใช้
   Future<bool> login(String email, String password) async {
