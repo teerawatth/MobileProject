@@ -4,7 +4,7 @@
             "outputFile": "com.example.badminton_courts.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\badminton_court_booking_v2\\badminton_courts\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\MobileProject\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
